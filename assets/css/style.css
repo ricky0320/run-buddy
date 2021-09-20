@@ -175,7 +175,6 @@
 
   .primary-border {
     border-color: #fce138;
-
   }
 
   .secondary-border {
@@ -217,7 +216,7 @@
   }
 
   .trainer-bio p {
-    font-size: 17;
+    font-size: 17px;
     line-height: 1.3;
   }
 

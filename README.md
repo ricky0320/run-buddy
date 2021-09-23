@@ -12,3 +12,5 @@ https://github.com/ricky0320/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Ricky]
+
+### ©️2019 Run Buddy, Inc 
